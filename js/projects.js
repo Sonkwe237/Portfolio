@@ -27,7 +27,7 @@ const projectsData = [
         image: "images/convertisseur.jpeg",
         category: "design",
         tags: ["JS", "CSS", "HTML"],
-        liveUrl: "https://storybook.design",
+        liveUrl: "https://convertisseur-monnaie.vercel.app/",
         githubUrl: "https://github.com/Sonkwe237/convertisseur_monnaie"
     },
     // {
